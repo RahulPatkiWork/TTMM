@@ -1,0 +1,5 @@
+{
+  "name": "TTMM",
+  "description": "A full-stack Splitwise alternative with receipt scanning and graph settlement.",
+  "requestFramePermissions": ["geolocation"]
+}
